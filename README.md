@@ -3,7 +3,7 @@
 Here we describe how to implement the CodeGPT model with training, inference and evaluation, and WhyGen to extract the neurons of the specified layer.
 
 An example of relevant training examples returned by WhyGen.
-![An example of relevant training examples returned by WhyGen.](https://github.com/WeixiangYAN/WhyGen/blob/master/figures/workflow.png)
+![An example of relevant training examples returned by WhyGen.](https://github.com/WeixiangYAN/WhyGen/figures/workflow.png)
 
 ## Task Definition
 
