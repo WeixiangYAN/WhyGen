@@ -2,8 +2,8 @@
 
 Here we describe how to implement the CodeGPT model with training, inference and evaluation, and WhyGen to extract the neurons of the specified layer.
 
-An example of relevant training examples returned by WhyGen.
-![An example of relevant training examples returned by WhyGen.](workflow.png)
+The workflow of WhyGen to explain DNN-powered code generation by examples.
+![The workflow of WhyGen to explain DNN-powered code generation by examples.](workflow.png)
 
 ## Task Definition
 
@@ -200,8 +200,8 @@ python -u run_lm.py \
 ```
 
 ## WhyGen demo
-The workflow of WhyGen to explain DNN-powered code generation by examples.
-![The workflow of WhyGen to explain DNN-powered code generation by examples.](code_example.png)
+An example of relevant training examples returned by WhyGen.
+![An example of relevant training examples returned by WhyGen.](code_example.png)
 
 
 ## Citation
