@@ -1,0 +1,20 @@
+= "<STR_LIT>"
+"<STR_LIT>"
+"
+= "<STR_LIT>"
+= [ ]
+Detail = [
+= [ ]
+= [ ]
+"<STR_LIT>"
+= "<STR_LIT>"
+= "<STR_LIT>"
+= "<STR_LIT>"
+"<STR_LIT>"
+= [ ]
+" = "<STR_LIT>"
+= [ ]
+= "<STR_LIT>"
+= [ ]
+= <NUM_LIT:1>
+"
