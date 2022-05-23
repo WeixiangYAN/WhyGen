@@ -38,7 +38,7 @@ Data statistics of py150 dataset are shown in the below table, note that there d
 
 ### py150 line completion test set for inference
 
-We use the first 1/2 part of each data as input according to the number of rows of data, and the next line as ground truth. Models are expected to generating the code sequence in the latter part until the first $<EOL>$ token (excluding $<EOL>$).
+We use the first 1/2 part of each data as input according to the number of rows of data, and the next line as ground truth. Models are expected to generating the code sequence in the latter part until the first `<EOL>` token (excluding `<EOL>`).
 
 Test set is already at `dataset/py150/line_completion/inference/test.json`.
 
