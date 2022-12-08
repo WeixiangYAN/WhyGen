@@ -216,5 +216,5 @@ If you find this repository useful in your research, please cite the following p
 ```
 
 ## Contact
-For questions, please feel free to reach out via email at g.weixyan@gmail.com.
+For questions, please feel free to reach out via email at yanweixiang.ywx@gmail.com.
 
